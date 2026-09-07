@@ -1,0 +1,463 @@
+{
+  "Day": {
+    "Date": "2026-01-15",
+    "Name": "Thursday, January 15, 2026",
+    "Courts": [
+      {
+        "ID": 6,
+        "Name": "ANZ Arena",
+        "Priority": 6,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ310",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ309",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ307",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 8,
+        "Name": "Court 5",
+        "Priority": 8,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ305",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ303",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ306",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 9,
+        "Name": "Court 6",
+        "Priority": 9,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ302",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ312",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ311",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10,
+        "Name": "Court 7",
+        "Priority": 10,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ310",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ313",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ314",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 11,
+        "Name": "Court 8",
+        "Priority": 11,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ301",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ315",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ311",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 15,
+        "Name": "Court 12",
+        "Priority": 15,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ303",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ316",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 16,
+        "Name": "Court 13",
+        "Priority": 16,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ312",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ309",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ302",
+                "NotBefore": ""
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ313",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 17,
+        "Name": "Court 14",
+        "Priority": 17,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ306",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ315",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ304",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 18,
+        "Name": "Court 15",
+        "Priority": 18,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ314",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ316",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ308",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 19,
+        "Name": "Court 16",
+        "Priority": 19,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ305",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ301",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ307",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 20,
+        "Name": "Court 17",
+        "Priority": 20,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MQ308",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WQ304",
+                "NotBefore": "12:30"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ReleaseNum": 2,
+    "ReleaseDate": "2026-01-15",
+    "ReleaseTime": "16:15:50",
+    "ReleaseType": "C",
+    "ReleaseTitle": ""
+  },
+  "Name": "Australian Open",
+  "Year": "2026",
+  "MsgID": "Schedule",
+  "Today": "2026-01-15",
+  "ATPNum": "580",
+  "WTANum": "901",
+  "UniqueID": "2026-01-15 16:15:51.003#0000348142#2026-01-15",
+  "Timestamp": "2026-01-15T16:15:51+11:00"
+}

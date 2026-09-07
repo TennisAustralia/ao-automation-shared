@@ -1,0 +1,913 @@
+{
+  "Day": {
+    "Date": "2026-01-25",
+    "Name": "Sunday, January 25, 2026",
+    "Courts": [
+      {
+        "ID": 1,
+        "Name": "Rod Laver Arena",
+        "Priority": 1,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:30",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WS401",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MS401",
+                "NotBefore": "13:30"
+              }
+            ]
+          },
+          {
+            "ID": 2,
+            "Name": "Night Session",
+            "Start": "19:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MS402",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WS404",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "Name": "Margaret Court Arena",
+        "Priority": 2,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:30",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "XD201",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WD302",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WS403",
+                "NotBefore": "14:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MS404",
+                "NotBefore": "16:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "Name": "John Cain Arena",
+        "Priority": 3,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MD306",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WS402",
+                "NotBefore": "13:00"
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MD304",
+                "NotBefore": ""
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MS403",
+                "NotBefore": "17:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "Name": "KIA Arena",
+        "Priority": 4,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MD302",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WD301",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "MD307",
+                "NotBefore": "14:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WD212",
+                "NotBefore": "16:15"
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "XD203",
+                "NotBefore": "17:30"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "Name": "1573 Arena",
+        "Priority": 5,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WD305",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "XD111",
+                "NotBefore": "13:00"
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "XD208",
+                "NotBefore": "14:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "XD113",
+                "NotBefore": "17:15"
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "XD103",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 6,
+        "Name": "ANZ Arena",
+        "Priority": 6,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "11:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "WD304",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS128",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS115",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "XD104",
+                "NotBefore": "17:15"
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "XD204",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 8,
+        "Name": "Court 5",
+        "Priority": 8,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "10:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS109",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS119",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS102",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS126",
+                "NotBefore": ""
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GD106",
+                "NotBefore": "16:30"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 9,
+        "Name": "Court 6",
+        "Priority": 9,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "10:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS107",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS131",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS124",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS121",
+                "NotBefore": ""
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS111",
+                "NotBefore": ""
+              },
+              {
+                "Num": 6,
+                "Type": "S",
+                "Order": 6,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GD105",
+                "NotBefore": "17:15"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 10,
+        "Name": "Court 7",
+        "Priority": 10,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "10:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS113",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS132",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS128",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS132",
+                "NotBefore": ""
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS112",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 11,
+        "Name": "Court 8",
+        "Priority": 11,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "10:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS110",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS120",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS106",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS131",
+                "NotBefore": ""
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BD108",
+                "NotBefore": "17:30"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 14,
+        "Name": "Court 11",
+        "Priority": 14,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "10:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS113",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS127",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS112",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS125",
+                "NotBefore": ""
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS130",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 15,
+        "Name": "Court 12",
+        "Priority": 15,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "10:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS115",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS101",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS123",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS122",
+                "NotBefore": ""
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BD101",
+                "NotBefore": "15:45"
+              },
+              {
+                "Num": 6,
+                "Type": "S",
+                "Order": 6,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GD115",
+                "NotBefore": "17:30"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 16,
+        "Name": "Court 13",
+        "Priority": 16,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "10:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS114",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS122",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS105",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS127",
+                "NotBefore": ""
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BD103",
+                "NotBefore": "15:30"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 17,
+        "Name": "Court 14",
+        "Priority": 17,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "10:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS116",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS108",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS125",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS116",
+                "NotBefore": ""
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BD105",
+                "NotBefore": "15:30"
+              },
+              {
+                "Num": 6,
+                "Type": "S",
+                "Order": 6,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GD113",
+                "NotBefore": "17:15"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ID": 18,
+        "Name": "Court 15",
+        "Priority": 18,
+        "Sessions": [
+          {
+            "ID": 1,
+            "Name": "Day Session",
+            "Start": "10:00",
+            "Matches": [
+              {
+                "Num": 1,
+                "Type": "S",
+                "Order": 1,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS114",
+                "NotBefore": ""
+              },
+              {
+                "Num": 2,
+                "Type": "S",
+                "Order": 2,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS121",
+                "NotBefore": ""
+              },
+              {
+                "Num": 3,
+                "Type": "S",
+                "Order": 3,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS111",
+                "NotBefore": "12:30"
+              },
+              {
+                "Num": 4,
+                "Type": "S",
+                "Order": 4,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "GS126",
+                "NotBefore": ""
+              },
+              {
+                "Num": 5,
+                "Type": "S",
+                "Order": 5,
+                "Status": "A",
+                "Comment": "",
+                "MatchID": "BS129",
+                "NotBefore": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ReleaseNum": 16,
+    "ReleaseDate": "2026-01-25",
+    "ReleaseTime": "18:30:36",
+    "ReleaseType": "C",
+    "ReleaseTitle": ""
+  },
+  "Name": "Australian Open",
+  "Year": "2026",
+  "MsgID": "Schedule",
+  "Today": "2026-01-25",
+  "ATPNum": "580",
+  "WTANum": "901",
+  "UniqueID": "2026-01-25 18:30:36.692#0001104846#2026-01-25",
+  "Timestamp": "2026-01-25T18:30:36+11:00"
+}
