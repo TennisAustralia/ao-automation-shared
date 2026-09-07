@@ -13,23 +13,33 @@
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "import": "./dist/index.js"
+      "import": "./dist/index.js",
+      "require": "./dist/index.js",
+      "default": "./dist/index.js"
     },
     "./tournament": {
       "types": "./dist/tournament/index.d.ts",
-      "import": "./dist/tournament/index.js"
+      "import": "./dist/tournament/index.js",
+      "require": "./dist/tournament/index.js",
+      "default": "./dist/tournament/index.js"
     },
     "./env": {
       "types": "./dist/env/index.d.ts",
-      "import": "./dist/env/index.js"
+      "import": "./dist/env/index.js",
+      "require": "./dist/env/index.js",
+      "default": "./dist/env/index.js"
     },
     "./mail": {
       "types": "./dist/mail/index.d.ts",
-      "import": "./dist/mail/index.js"
+      "import": "./dist/mail/index.js",
+      "require": "./dist/mail/index.js",
+      "default": "./dist/mail/index.js"
     },
     "./random": {
       "types": "./dist/random/index.d.ts",
-      "import": "./dist/random/index.js"
+      "import": "./dist/random/index.js",
+      "require": "./dist/random/index.js",
+      "default": "./dist/random/index.js"
     }
   },
   "scripts": {
