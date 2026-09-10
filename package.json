@@ -1,6 +1,6 @@
 {
   "name": "ao-automation-shared",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Shared Node/TypeScript utilities and payload access for AO automation repositories.",
   "type": "module",
   "files": [
@@ -46,7 +46,8 @@
     "clean": "rm -rf dist",
     "build": "npm run clean && tsc -p tsconfig.json",
     "prepare": "npm run build",
-    "typecheck": "tsc --noEmit -p tsconfig.json"
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test:compat:cjs": "npm run build && node scripts/smoke-cjs-tournament-require.cjs"
   },
   "engines": {
     "node": ">=22.0.0"
