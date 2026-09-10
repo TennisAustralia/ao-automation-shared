@@ -57,3 +57,35 @@ export type {
 export { getPayloadRoot } from '../internal/payload-access.js';
 export { discoverDrawPayloadFiles, findLatestDrawPayloadFile, hasAnyPlayerData } from '../internal/payload-discovery.js';
 export { buildTeamDisplayName, getAllMatches, getFirstRoundMatch, getRoundMatches, loadDrawPayloadByEvent } from '../internal/payload-parser.js';
+
+export {
+  clearDrupalData,
+  clearScoringData,
+  getEventId,
+  logDiscoveredPayloads,
+  postPayloads,
+  postPayloadToAPI,
+  prepAndRefresh,
+  refreshDrupalCache,
+  verifyEmptyState,
+  verifyLiveScoresEmptyState,
+  verifyMatchDisplayed,
+  verifyDrawsEmptyState,
+  verifyResultsEmptyState,
+  verifyScheduleEmptyState,
+  waitForDataProcessing,
+} from './payload-api.js';
+export type {
+  DrawsPageLike,
+  EnvironmentName,
+  LocatorLike,
+  Match,
+  PageHelper,
+  PageLike,
+  Payload,
+  PayloadInfo,
+  PostPayloadBatchOptions,
+  PostPayloadOptions,
+  SimulatorLike,
+  Team,
+} from './payload-api.js';
