@@ -1,6 +1,11 @@
-const requiredModule = require('../dist/tournament/index.js');
+const envModule = require('ao-automation-shared/env');
+const tournamentModule = require('ao-automation-shared/tournament');
 
-const requiredKeys = [
+if (typeof envModule.readPositiveIntEnv !== 'function') {
+  throw new Error('Missing required CJS export: readPositiveIntEnv from ao-automation-shared/env');
+}
+
+const tournamentRequiredKeys = [
   'getAllDrawEventNames',
   'getAllMatches',
   'getRoundMatches',
@@ -8,10 +13,10 @@ const requiredKeys = [
   'verifyDrawsEmptyState',
 ];
 
-for (const key of requiredKeys) {
-  if (!(key in requiredModule)) {
-    throw new Error(`Missing required export in CJS require(): ${key}`);
+for (const key of tournamentRequiredKeys) {
+  if (!(key in tournamentModule)) {
+    throw new Error(`Missing required CJS export from ao-automation-shared/tournament: ${key}`);
   }
 }
 
-console.log('cjs-require-tournament-ok');
+console.log('cjs-require-env-and-tournament-ok');
